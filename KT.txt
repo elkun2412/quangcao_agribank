@@ -1,0 +1,38 @@
+- Để hạch toán thì nghiệp vụ đó  phải đã xảy ra hoặc chắc chắn
+sẽ  xảy ra   và đã ảnh hướng đến 1 cái gì đó trong DN
+VD: trả tiền trước cho dn, cuối tháng tính lương, đã mua hàng hóa...
+1. Phân loại kế toán:
+KT tài chính: thu thập xử bằng báo cáo tài chính  
+Kế toán quản trị:theo yêu cầu quản trị và quyết định kinh tế, tài chính
+trong nội bộ đơn vị kế toán.
+	+ Báo cáo tài chính:
+1. Báo cáo kết quả hoạt động kinh doanh
+Thể hiện thu nhâp và chi phí , lãi lỗ áp dụng cho 1 kỳ kế toán. ( mang tính thời kỳ)
+2. Bảng cân đối kế toán
+Thể hiện các loại ts, npt, vcsh của DN.
+TS = NPT+VCSH
+Mang tính thời điểm tại 1 thời điểm nhất định.
+3. Báo cáo luân chuyển tiền tệ
+Thể hiện các luồng tiền của DN thu vào chi ra của 1 DN
+4. Thuyết minh báo cáo tài chính.
+
+
+ Chức năng KT: cung cấp thông tin, dùng để kiểm tra để đưa ra các quyết định.
+ 
++ Đối tượng của hạch toán kế toán:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
